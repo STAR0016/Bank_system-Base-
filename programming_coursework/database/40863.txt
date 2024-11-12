@@ -1,0 +1,5 @@
+Name: ë~lulu
+ID: 6996
+Account Type: saving
+Account Number: 40863
+Amount:79.96

@@ -1,0 +1,5 @@
+Name: Kobe
+ID: 2408
+Account Type: Saving
+Account Number: 21911
+Amount:61.87
